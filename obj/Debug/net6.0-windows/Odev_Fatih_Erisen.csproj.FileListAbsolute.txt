@@ -1,0 +1,17 @@
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\bin\Debug\net6.0-windows\Odev_Fatih_Erisen.exe
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\bin\Debug\net6.0-windows\Odev_Fatih_Erisen.deps.json
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\bin\Debug\net6.0-windows\Odev_Fatih_Erisen.runtimeconfig.json
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\bin\Debug\net6.0-windows\Odev_Fatih_Erisen.dll
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\bin\Debug\net6.0-windows\Odev_Fatih_Erisen.pdb
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\Odev_Fatih_Erisen.csproj.AssemblyReference.cache
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\Odev_Fatih_Erisen.Form1.resources
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\Odev_Fatih_Erisen.csproj.GenerateResource.cache
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\Odev_Fatih_Erisen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\Odev_Fatih_Erisen.AssemblyInfoInputs.cache
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\Odev_Fatih_Erisen.AssemblyInfo.cs
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\Odev_Fatih_Erisen.csproj.CoreCompileInputs.cache
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\Odev_Fatih_Erisen.dll
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\refint\Odev_Fatih_Erisen.dll
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\Odev_Fatih_Erisen.pdb
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\Odev_Fatih_Erisen.genruntimeconfig.cache
+D:\Yazılım\Nesneye Dayalı\Uygulamalar\Odev_Fatih_Erisen\Odev_Fatih_Erisen\obj\Debug\net6.0-windows\ref\Odev_Fatih_Erisen.dll
