@@ -6,3 +6,4 @@ Uygulama sadece 4 basamaklı tam sayı girildiğinde çalışacak şekilde tasar
 
 ### Ekran Görüntüleri:
 
+![vs](https://user-images.githubusercontent.com/122473354/231130103-969599af-2a8d-4851-ada5-d46ef41b6aca.png)
